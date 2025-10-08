@@ -1,10 +1,10 @@
 # Predicting-High-Income-Developers
 Data Analytics and Machine Learning Mini Project
+The dataset can be found here: https://survey.stackoverflow.co/
 🧠 Predicting High-Income Developers
 📋 Project Overview
 
 This project explores data from the 2024 Stack Overflow Annual Developer Survey to understand what factors contribute to a developer earning a high income.
-The dataset can be found here: https://survey.stackoverflow.co/
 It combines data analytics and machine learning techniques to:
 
 Explore developer demographics and work characteristics

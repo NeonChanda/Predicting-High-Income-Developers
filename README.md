@@ -18,7 +18,7 @@ It combines data analytics and machine learning techniques to:
 
 ## 🔍 Data Analytics Section
 
-The first part of the notebook focuses on data analytics and exploratory insights.
+**The first part of the notebook focuses on data analytics and exploratory insights.**
 
 Data Cleaning:
 
@@ -44,7 +44,7 @@ Feature Engineering:
 
 ## 🤖 Machine Learning Section
 
-## The second half applies machine learning to classify developers into high-income vs. non-high-income groups.
+**The second half applies machine learning to classify developers into high-income vs. non-high-income groups.**
 
 - Model Development
 

@@ -2,6 +2,10 @@
 Data Analytics and Machine Learning Mini Project
 The dataset can be found here: https://survey.stackoverflow.co/
 ## 🧠 Predicting High-Income Developers
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
+[![Pandas](https://img.shields.io/badge/Data-Pandas-lightblue?logo=pandas&logoColor=black)](https://pandas.pydata.org/)  
+[![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
+[![Jupyter Notebook](https://img.shields.io/badge/IDE-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)  
 
 This project explores data from the 2024 Stack Overflow Annual Developer Survey to understand what factors contribute to a developer earning a high income.
 It combines data analytics and machine learning techniques to:

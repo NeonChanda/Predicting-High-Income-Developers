@@ -12,7 +12,7 @@ It combines data analytics and machine learning techniques to:
 
 **Build machine learning models to predict whether a developer earns above the median annual income**
 
-##🔍 Data Analytics Section
+## 🔍 Data Analytics Section
 
 The first part of the notebook focuses on data analytics and exploratory insights.
 
